@@ -1,0 +1,34 @@
+body{
+	background-color: #F2DEDE;
+}
+.current{
+	list-style: none;
+}
+#navcon{
+	display: inline-flex;
+	margin-left: 1000px;
+}
+.current a{
+	text-decoration: none;
+}
+#_img{
+	position: absolute;
+	width: 108px;
+	left: 81px;
+	border-radius: 80px;
+	
+}
+#ppp{
+
+border: 1px solid red;
+display: flex;
+flex-wrap: wrap;
+}
+#nava{
+	border: 1px solid #c0aeae;
+width: 222px;
+height: 249px;
+border-radius: 17px;
+background-color: whitesmoke;
+text-align: center;
+}

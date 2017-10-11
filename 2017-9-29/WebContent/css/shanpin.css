@@ -1,0 +1,83 @@
+body{
+	margin:0px;
+}
+#_a{
+	margin-left:66px;
+    font-size: 20px;
+    text-decoration: none;
+}
+#login{
+padding-top: 15px;
+background: azure;
+height: 43px;
+}
+#login_admin{
+position: relative;
+float: right;
+top: -24px;
+right: 35px;
+border-radius: 5px;
+width: 89px;
+height: 23px;
+background-color: darkturquoise;
+}
+#img{
+position: relative;
+float: right;
+top: -22px;
+right: 24px;
+}
+#sp{
+	display:block;
+	
+}
+#_left{
+	flex:1;
+	display: inline-block;
+width: 191px;
+height: 599px;
+background-color: azure;
+position: relative;
+top:-389px;
+left:2px;
+}
+#_right{
+	flex:5;
+	display: inline-block;
+	height: 599px;
+	width: 1042px; 
+}
+#xiabian{
+	display: flex;
+}
+li{
+	list-style: none;
+border-: 1px solid;
+width: 187px;
+height: 38px;
+text-align: center;
+margin-left: -37px;
+background-color: deepskyblue;
+border-bottom: 1px solid;
+cursor: pointer;
+font-size: 21px;
+color: white;
+
+}
+li:hover{
+	background-color: darkmagenta;
+}
+#_a:hover{
+	color:red;
+}
+#_a{
+	color:#808080;
+}
+#tianjiafeil{
+    width: 948px;
+    height: 400px;
+    position: absolute;
+    left: 234px;
+    background-color: floralwhite;
+    
+}

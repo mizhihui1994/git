@@ -1,0 +1,92 @@
+body{
+	margin: 0px;
+}
+#main{
+    border: 1px solid red;
+    width: 1093px;
+    height: 1000px;
+    margin: auto;
+    /*display: block;*/
+}
+#a1{
+	border: 1px solid darkcyan;
+	width: 1093px;
+	height: 60px;
+	 /*display: block;*/
+	 background-color:blue;
+	
+}
+#a1 .a1{
+	font-size: 16px;
+	color: white;
+}
+ #a1-1{
+    /*border: 1px solid darkcyan;*/
+    width: 394px;
+    height: 28px;
+    position: relative;
+    left: 697px;
+    top: -21px;
+}
+#a2{
+	border: 1px solid firebrick;
+	width:200px;
+	height: 937px;
+	/*display: inline-block;*/
+	/*background-color:darkgoldenrod;*/
+	text-align: center;
+	margin-top: -29px;
+	
+}
+#caidan{
+	  height: 35px;
+	    background-color:darkgoldenrod;
+	        margin-top: -21px;
+}
+
+#a2 #a2-1{
+	/*border-bottom: 1px solid firebrick;*/
+	    height: 35px;
+	    background-color:darkgoldenrod;
+	           margin-top: -17px;
+}
+#a2 #a2-2{
+	/*border-bottom: 1px solid firebrick;*/
+	    height: 35px;
+	    background-color:darkgoldenrod;
+}
+#a2 #a2-3{
+	/*border-bottom: 1px solid firebrick;*/
+	    height: 35px;
+	    background-color:darkgoldenrod;
+}
+#a2 #a2-4{
+	/*border-bottom: 1px solid firebrick;*/
+	    height: 35px;
+	    background-color:darkgoldenrod;
+}
+#a2 #a2-5{
+	border-bottom: 1px solid firebrick;s
+	 height: 29px;
+	background-color:darkgoldenrod;
+	/*display: none;*/
+	    
+}
+#yincang{
+	/*height: 0px;*/
+	display: none;
+}
+#yincang1{
+	/*height: 0px;*/
+	display: none;
+}
+
+#a3{
+	/*border: 1px solid fuchsia;*/
+    width: 877px;
+    height: 937px;
+    /* display: inline-block; */
+    position: relative;
+    left: 215px;
+    top: -939px;
+}

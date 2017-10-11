@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+body{
+	background-color: aliceblue;
+}
+#_div{
+	
+	width: 362px;
+	margin: auto;
+	position: relative;
+	top: 70px;
+	height: 292px;
+	padding-top: 45px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: burlywood;
+}
+#tianjian{
+	width: 100px;
+    height: 38px;
+}
+#chongzhi{
+	margin-left: 45px;
+	width: 100px;
+	height: 38px;
+}
+#splb{
+	text-align: -moz-center;
+}

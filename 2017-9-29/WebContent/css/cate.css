@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+#cate_table{
+width: 950px;
+height: 113px;
+border-bottom: 1px solid;
+ border-bottom-color: currentcolor;
+border-color: aqua;
+margin: auto;
+}
+#thead{
+color: rebeccapurple;
+font-size: 24px;
+margin-left: 83px;}
+#_fo{
+border: 1px solid;
+width: 430px;
+height: 259px;
+position: relative;
+left: 200px;
+box-shadow: 10px -13px 19px 5px rgb(1,1,110);
+border-radius: 15px;}
+#_tijiao_{
+position: relative;
+left: 287px;
+width: 100px;
+height: 38px;
+background-color: burlywood;
+top: -26px;}

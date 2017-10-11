@@ -1,0 +1,30 @@
+body{
+	margin: 0px;
+}
+#main{
+    border: 1px solid red;
+    width: 1093px;
+    height: 1000px;
+    margin: auto;
+    /*display: block;*/
+}
+#a1{
+	border: 1px solid darkcyan;
+	width: 1093px;
+	height: 60px;
+	 /*display: block;*/
+	 background-color:blue;
+	
+}
+#a1 .a1{
+	font-size: 16px;
+	color: white;
+}
+#a1 #a1-1{
+    /*border: 1px solid darkcyan;*/
+    width: 394px;
+    height: 28px;
+    position: relative;
+    left: 697px;
+    top: -21px;
+}
